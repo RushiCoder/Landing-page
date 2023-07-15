@@ -7,9 +7,12 @@ It's only a front Page of any Web Application.
 
 ## languages :
 
-![Logo](https://tse2.mm.bing.net/th?id=OIP.on0Uonte99NcJB1cycHetAHaHa&pid=Api&P=0&h=180)
 
-![Logo](https://tse1.mm.bing.net/th?id=OIP.pXrq6xy_Gxua3qTfGZLXqwHaKc&pid=Api&P=0&h=180)
+
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="200" height="200" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="200" height="200" /> </a>
+
 
 
 
